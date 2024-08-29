@@ -1,0 +1,48 @@
+body{
+    margin: px;
+}
+.main{
+    width: fit-content;
+    height: 200px;
+    background-color: white;
+    box-shadow: 0px 0px 5px 0px rgb(202, 199, 199);
+    margin-left: 450px;
+    margin-top: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    
+    
+    
+}
+h4{
+    text-align: center;
+}
+h2{
+    color: blue;
+    margin-left: 600px;
+    margin-top: 50px;
+    
+}
+
+input{
+    width: 360px;
+    height: 30px;
+    border: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+
+}
+button{
+    background-color: blue;
+    width: 365px;
+    height: 30px;
+    color: white;
+    border: none;
+    border: 1px solid black;
+    border-radius: 5px;
+
+
+}
+
+
